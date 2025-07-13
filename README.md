@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vpat55/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/vpat55/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vpat55/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/vpat55/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3194-find-words-containing-character](https://github.com/vpat55/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vpat55/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Binary Search
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/vpat55/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/vpat55/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Enumeration
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vpat55/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vpat55/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0861-flipping-an-image](https://github.com/vpat55/Leetcode/tree/master/0861-flipping-an-image) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/vpat55/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## Linked List
 |  |
 | ------- |
@@ -141,5 +144,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/vpat55/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vpat55/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 <!---LeetCode Topics End-->
