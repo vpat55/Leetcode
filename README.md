@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vpat55/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/vpat55/Leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/vpat55/Leetcode/tree/master/1677-matrix-diagonal-sum) |
+| [1813-maximum-erasure-value](https://github.com/vpat55/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vpat55/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vpat55/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vpat55/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vpat55/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1813-maximum-erasure-value](https://github.com/vpat55/Leetcode/tree/master/1813-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vpat55/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vpat55/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1813-maximum-erasure-value](https://github.com/vpat55/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vpat55/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vpat55/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vpat55/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
