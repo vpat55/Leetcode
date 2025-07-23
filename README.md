@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/vpat55/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/vpat55/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/vpat55/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vpat55/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [3194-find-words-containing-character](https://github.com/vpat55/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/vpat55/Leetcode/tree/master/3396-valid-word) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/vpat55/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vpat55/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vpat55/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Heap (Priority Queue)
@@ -176,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vpat55/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/vpat55/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
