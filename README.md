@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/vpat55/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vpat55/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vpat55/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vpat55/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vpat55/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vpat55/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/vpat55/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vpat55/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vpat55/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vpat55/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+## Segment Tree
+|  |
+| ------- |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vpat55/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
