@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2079-delete-duplicate-folders-in-system](https://github.com/vpat55/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vpat55/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/vpat55/Leetcode/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/vpat55/Leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vpat55/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3194-find-words-containing-character](https://github.com/vpat55/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vpat55/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
