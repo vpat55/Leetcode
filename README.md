@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/vpat55/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/vpat55/Leetcode/tree/master/0118-pascals-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/vpat55/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/vpat55/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0777-toeplitz-matrix](https://github.com/vpat55/Leetcode/tree/master/0777-toeplitz-matrix) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vpat55/Leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/vpat55/Leetcode/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vpat55/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/vpat55/Leetcode/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vpat55/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
