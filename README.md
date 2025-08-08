@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vpat55/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vpat55/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vpat55/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0826-soup-servings](https://github.com/vpat55/Leetcode/tree/master/0826-soup-servings) |
 | [1013-fibonacci-number](https://github.com/vpat55/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vpat55/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vpat55/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vpat55/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vpat55/Leetcode/tree/master/0118-pascals-triangle) |
+| [0826-soup-servings](https://github.com/vpat55/Leetcode/tree/master/0826-soup-servings) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vpat55/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/vpat55/Leetcode/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vpat55/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -241,4 +243,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/vpat55/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/vpat55/Leetcode/tree/master/3791-fruits-into-baskets-iii) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/vpat55/Leetcode/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
