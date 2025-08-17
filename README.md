@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vpat55/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0867-new-21-game](https://github.com/vpat55/Leetcode/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/vpat55/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/vpat55/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/vpat55/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/vpat55/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vpat55/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0826-soup-servings](https://github.com/vpat55/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/vpat55/Leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/vpat55/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vpat55/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vpat55/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vpat55/Leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/vpat55/Leetcode/tree/master/0118-pascals-triangle) |
 | [0826-soup-servings](https://github.com/vpat55/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/vpat55/Leetcode/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/vpat55/Leetcode/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1013-fibonacci-number](https://github.com/vpat55/Leetcode/tree/master/1013-fibonacci-number) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/vpat55/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
@@ -255,4 +258,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/vpat55/Leetcode/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/vpat55/Leetcode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
