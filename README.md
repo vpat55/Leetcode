@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vpat55/Leetcode/tree/master/0118-pascals-triangle) |
 | [0209-minimum-size-subarray-sum](https://github.com/vpat55/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0566-reshape-the-matrix](https://github.com/vpat55/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0679-24-game](https://github.com/vpat55/Leetcode/tree/master/0679-24-game) |
 | [0777-toeplitz-matrix](https://github.com/vpat55/Leetcode/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/vpat55/Leetcode/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/vpat55/Leetcode/tree/master/0898-transpose-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/vpat55/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/vpat55/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/vpat55/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0679-24-game](https://github.com/vpat55/Leetcode/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/vpat55/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/vpat55/Leetcode/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/vpat55/Leetcode/tree/master/1013-fibonacci-number) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0679-24-game](https://github.com/vpat55/Leetcode/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vpat55/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
