@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/vpat55/Leetcode/tree/master/2689-rearranging-fruits) |
 | [3194-find-words-containing-character](https://github.com/vpat55/Leetcode/tree/master/3194-find-words-containing-character) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/vpat55/Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vpat55/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/vpat55/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/vpat55/Leetcode/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/vpat55/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/vpat55/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vpat55/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vpat55/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vpat55/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vpat55/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vpat55/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Dynamic Programming
@@ -152,12 +154,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/vpat55/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vpat55/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/vpat55/Leetcode/tree/master/2689-rearranging-fruits) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vpat55/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/vpat55/Leetcode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Enumeration
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vpat55/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vpat55/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vpat55/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/vpat55/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/vpat55/Leetcode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## String
@@ -288,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/vpat55/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+## Geometry
+|  |
+| ------- |
+| [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vpat55/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 <!---LeetCode Topics End-->
