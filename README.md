@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/vpat55/Leetcode/tree/master/1013-fibonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/vpat55/Leetcode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/vpat55/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/vpat55/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/vpat55/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/vpat55/Leetcode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vpat55/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
