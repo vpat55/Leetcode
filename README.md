@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/vpat55/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/vpat55/Leetcode/tree/master/1677-matrix-diagonal-sum) |
 | [1813-maximum-erasure-value](https://github.com/vpat55/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/vpat55/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/vpat55/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vpat55/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/vpat55/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vpat55/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0940-fruit-into-baskets](https://github.com/vpat55/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/vpat55/Leetcode/tree/master/1813-maximum-erasure-value) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/vpat55/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/vpat55/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/vpat55/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2689-rearranging-fruits](https://github.com/vpat55/Leetcode/tree/master/2689-rearranging-fruits) |
@@ -248,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1818-maximum-score-from-removing-substrings](https://github.com/vpat55/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/vpat55/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/vpat55/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/vpat55/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2689-rearranging-fruits](https://github.com/vpat55/Leetcode/tree/master/2689-rearranging-fruits) |
