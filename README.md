@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vpat55/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vpat55/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/vpat55/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vpat55/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -189,11 +190,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/vpat55/Leetcode/tree/master/3396-valid-word) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vpat55/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vpat55/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vpat55/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting
 |  |
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/vpat55/Leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/vpat55/Leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/vpat55/Leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
